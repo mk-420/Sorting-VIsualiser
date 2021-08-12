@@ -10,6 +10,6 @@
 
 [Check out the website here](https://mk-420.github.io/Sorting-VIsualiser/)
 
-<img src="img/img1.png"> <br/>
-<img src="img/img2.png"> <br/>
-<img src="img/img3.png"> <br/>
+<img src="img1.png"> <br/>
+<img src="img2.png"> <br/>
+<img src="img3.png"> <br/>
